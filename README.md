@@ -1,7 +1,7 @@
 #Sarter Web Project 
 
 this is a simple website project for shoing  how to 
-use git and github together
+use git and github together. Adding a line for rebasing
 
 ## Introduction
 
