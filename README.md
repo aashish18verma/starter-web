@@ -12,7 +12,7 @@ this is an amazing introduction to this project.
 this is an good purpose 
 
  # copyRight
-this is a git training 
+this is a git training. all rigths reserved 
 
 ##deployement
 
